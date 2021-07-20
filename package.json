@@ -1,0 +1,21 @@
+{
+  "name": "my-driver",
+  "version": "1.0.0",
+  "description": "my-sql-driver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "im_catur_"
+  },
+  "keywords": [
+    "mysql"
+  ],
+  "author": "catur ilham muharam",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
